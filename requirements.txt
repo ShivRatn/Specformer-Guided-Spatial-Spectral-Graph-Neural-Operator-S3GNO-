@@ -1,0 +1,14 @@
+# Core deep learning framework
+torch
+
+# Graph Neural Network (GNN) library
+# Used for GAT and graph-based layers [1, 1]
+torch_geometric
+
+# Scientific computing and data handling
+numpy
+scipy
+pandas
+
+# Machine Learning for PCA, KNN, and metrics 
+scikit-learn
